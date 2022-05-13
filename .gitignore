@@ -129,10 +129,10 @@ dmypy.json
 .pyre/
 
 # add
-## Python
+.DS_Store
+dev/
+gcp/text-to-speech-329914-d794cc4bd5c4.json
 main/output.mp3
 main/secret.py
 main/music_player.py
 sample/
-dev/
-gcp/text-to-speech-329914-d794cc4bd5c4.json
